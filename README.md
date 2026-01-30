@@ -1,4 +1,4 @@
-## Opa, sou Raikan Kleberson 😁👍
+## Oi, sou Raikan Kleberson 😁👍
 📔 Hoje trabalho com Front-End usando HTML, CSS e JavaScript
 👨‍💻 Estudando Back-end pra poder acrescentar projetos em meu Portfólio
 📩 Contate-me pelo e-mail: raikankleberson@gmail.com
