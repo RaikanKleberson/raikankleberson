@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo(a), sou Raikan Kleberson 😁
-📔 Hoje trabalho com Desenvolvedor usando várias tecnologias como: HTML, CSS e JavaScript, node.js, MySQL, Git e Github
+📔 Hoje trabalho com Desenvolvedor usando várias tecnologias como: HTML, CSS, JavaScript, React, Next.js, Node.js, MySQL, Git e Github
 👨‍💻 Cursando Engenharia de Software - Unicatólica do Tocantins
 📩 Contate-me > e-mail: raikankleberson@gmail.com | LinkedIn: https://www.linkedin.com/in/raikankleberson
 
